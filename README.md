@@ -4,5 +4,6 @@ I am a Cartography Technician in the [Department of Earth Sciences](https://www.
 
 ### Education
 
-* **BS**in Earth Sciences (2015)
+* **BS** in Earth Sciences (2015)
+
 
